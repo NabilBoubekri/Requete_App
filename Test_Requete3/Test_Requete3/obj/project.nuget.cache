@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nFpown0+egQrj/G5GMY2yQ/5LXHapXJPCcmgBXHYrn1SeXjCY0xGWf8ogXl2YGoi5FwxZzSCbs0MdmFteWcqUQ==",
+  "success": true,
+  "projectFilePath": "D:\\D3\\Test_Requete3\\Test_Requete3\\Test_Requete3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nabil\\.nuget\\packages\\htmlagilitypack\\1.11.57\\htmlagilitypack.1.11.57.nupkg.sha512"
+  ],
+  "logs": []
+}

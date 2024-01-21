@@ -1,0 +1,17 @@
+D:\D3\Test_Requete3\Test_Requete3\bin\Debug\net6.0\Test_Requete3.exe
+D:\D3\Test_Requete3\Test_Requete3\bin\Debug\net6.0\Test_Requete3.deps.json
+D:\D3\Test_Requete3\Test_Requete3\bin\Debug\net6.0\Test_Requete3.runtimeconfig.json
+D:\D3\Test_Requete3\Test_Requete3\bin\Debug\net6.0\Test_Requete3.dll
+D:\D3\Test_Requete3\Test_Requete3\bin\Debug\net6.0\Test_Requete3.pdb
+D:\D3\Test_Requete3\Test_Requete3\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\D3\Test_Requete3\Test_Requete3\obj\Debug\net6.0\Test_Requete3.csproj.AssemblyReference.cache
+D:\D3\Test_Requete3\Test_Requete3\obj\Debug\net6.0\Test_Requete3.GeneratedMSBuildEditorConfig.editorconfig
+D:\D3\Test_Requete3\Test_Requete3\obj\Debug\net6.0\Test_Requete3.AssemblyInfoInputs.cache
+D:\D3\Test_Requete3\Test_Requete3\obj\Debug\net6.0\Test_Requete3.AssemblyInfo.cs
+D:\D3\Test_Requete3\Test_Requete3\obj\Debug\net6.0\Test_Requete3.csproj.CoreCompileInputs.cache
+D:\D3\Test_Requete3\Test_Requete3\obj\Debug\net6.0\Test_Requete3.csproj.CopyComplete
+D:\D3\Test_Requete3\Test_Requete3\obj\Debug\net6.0\Test_Requete3.dll
+D:\D3\Test_Requete3\Test_Requete3\obj\Debug\net6.0\refint\Test_Requete3.dll
+D:\D3\Test_Requete3\Test_Requete3\obj\Debug\net6.0\Test_Requete3.pdb
+D:\D3\Test_Requete3\Test_Requete3\obj\Debug\net6.0\Test_Requete3.genruntimeconfig.cache
+D:\D3\Test_Requete3\Test_Requete3\obj\Debug\net6.0\ref\Test_Requete3.dll
